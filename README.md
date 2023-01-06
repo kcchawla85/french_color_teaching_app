@@ -12,9 +12,11 @@ This is an early stage app and some of the new features will be updated soon:
 2. Open the app 
 3. Click on the button and repeat the pronunciations.
 
+# VIDEO & SCEENSHOT
+
+
+https://user-images.githubusercontent.com/73349039/211035709-44bbd1ca-dec3-4fd7-882a-013c242fcf17.mp4
+
+![SS](https://user-images.githubusercontent.com/73349039/211035754-16214a35-f191-4cd5-9816-892d44524252.jpg)
+
 This app was developed by Kunal Chawla 
-
-
-
-
-
